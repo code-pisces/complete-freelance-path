@@ -1,6 +1,20 @@
 # Caminho Freelancer na Tecnologia
 Como você está aqui imagino que esteja a procura de um conteúdo objetivo, que não seja listas de dicas na internet que pouco dizem, sobre carreira freelancer. Trabalho como freelancer há anos e quando comecei havia muito pouco conteúdo sobre esse assunto na internet. Mesmo hoje, você raramente vê algo que se aprofunde de maneira objetiva sobre o assunto. Pensando nisso, venho trazer um caminho para reduzir o tempo que você levaria descobrindo tudo isso por conta própria.
 
+## Sumário
+
+1. [Considerações importantes](#considerações-importantes)
+2. [O que é Freelancer?](#o-que-é-freelancer)
+3. [Portfólio](#portfólio)
+4. [Lidando com clientes](#lidando-com-clientes)
+5. [Prazos](#prazos)
+6. [Preços](#preços)
+7. [Desenvolvimento](#desenvolvimento)
+8. [Entrega](#entrega)
+9. [Pós-entrega](#pós-entrega)
+10. [Final](#final) 
+    1. [Bônus](#bônus-e-as-plataformas-freelancer)
+
 ## Considerações importantes
 Não faça das minhas palavras a verdade absoluta. Essa é a apenas a maneira em que trabalho nos dias atuais, mas ela pode ser atualizada ao longo do tempo. Pegue o que for favorável e tente aplicar pra seu fluxo de trabalho.
 
@@ -97,7 +111,7 @@ Com o valor hora em mãos, é possível calcular um valor para um projeto. A par
 Durante o desenvolvimento de um projeto, é sempre importante se firmar no pilar da comunicação. Uma comunicação adequada é a chave para a entrega rápida, sem ruídos, e com menor incidência de problemas. Mas além da comunicação, existem outros aspectos cruciais.
 
 ### Comunicação
-Uma comunicação deve ser clara e direta, portanto use de maneira consciente das ferramentas que dispõe.
+A comunicação deve ser clara e direta, portanto use de maneira consciente das ferramentas que dispõe.
 - **Reuniões:** O uso de reuniões não deve ser a forma de comunicação do dia a dia, devido sua ineficiência em relação as mensagens de texto. Mas não significa que elas são inúteis. Muito pelo contrário, reuniões semanais, de apresentação, que sirvam para garantir que o projeto está caminhando na direção correta são poderosas ferramentas.
 - **Mensagens de texto:** Diferente das reuniões, as mensagens tem um caráter instantâneo e assíncrono, o que as fazem perfeitas para conversas do dia a dia, comunicados, solicitações de recursos ou como forma de tirar dúvidas.
 - **Documentação:** Documentação é extremamente necessário. Seja ela uma documentação técnica, sobre a implementação do seu trabalho, ou uma documentação direcionada ao usuário, é a documentação que garante a integração com novos integrantes da equipe e sua própria localização dentro do projeto.
@@ -107,3 +121,35 @@ Quanto mais rápido entregar ao software, melhor. Seu cliente terá uma vantagem
 
 Dentro da TI, existem muitos processos que podem ser automatizados. Entre eles: criação de projetos, deploy de aplicações, integração contínua. Todos esses processos repetitivos não devem ser uma preocupação, então o uso de templates e gists é muito benéfico. Dessarte, evite refazer algo que você sabe que pode ser extraído e reutilizado.
 > É difícil perceber quais partes são reutilizáveis sem ter contato com diversas situações em que esses padrões se repetem. O processo da criação de uma base de conhecimento leva tempo.
+
+<img src=".github/images/desenvolvimento.png">
+A imagem acima descreve um processo estruturado para um início rápido, onde o foco é apenas o desenvolvimento, removendo as barreiras iniciais e de entrega.
+
+> Esse diagrama ilustra um projeto de software, mas pode ser adaptado a uma infinidade de outras tarefas.
+
+## Entrega
+Um miríade de pessoas ficam em dúvida em qual seria o modo ideal de entregar um projeto a um cliente. Isso obviamente depende da natureza do projeto. Mas existem alguns pontos a se considerar.
+
+### Cliente não técnico
+Muitos clientes não se preocupam com a execução técnica, só querem o projeto em pé e funcionando. Por isso, cabe ao profissional abstrair informações técnicas e oferecer um plano em que mantenha o projeto no ar.
+- Projetos de software tem custo mensal ou anual para serem mantidos em pé. Deixe isso claro no contrato, evidencie os serviços que são necessários após a entrega, como: Domínio, hospedagem, storage, e demais custos em infraestrutura.
+- Em alguns casos o cliente não possui infraestrutura própria para comportar o projeto. Cabe você oferecer o serviço ou fornecer as informações necessárias para que seja reproduzível com outro profissional.
+
+### Cliente técnico
+Em outras situações o cliente é uma pessoa técnica ou possui uma equipe própria que manterá o projeto. Por isso ele pode querer a própria estrutura, além de manter a posse e custódia do projeto. Leve isso em consideração ao sugerir planos de acompanhamento e serviços análogos.
+
+Ademais, existe algo que você sempre deve entregar, independente do tipo de cliente. Essa coisa é uma documentação com todo tipo de informação necessária ao seu contratante. Seja transparente.
+
+## Pós-entrega
+Um projeto de software possui um ciclo de vida muito bem delimitado. Se destacar como freelancer é demonstrar profissionalismo e maturidade ao lidar com essas etapas diversas de um projeto.
+<img src=".github/images/ciclo-de-vida.png">
+
+Cada fase na vida de um software vai exigir abordagens diferentes. Oferecer o acompanhamento com cliente, do início ao fim do software é um recurso que garante que o projeto vai evoluir como deveria.
+- **Ofereça planos mensais de atualizações.** Após a primeira entrega, várias outras demandas surgem da necessidade de integração de novas funcionalidades.
+- **Mantenha uma boa relação.** Manter uma boa relação com seus contratantes propicia um ambiente suave de trabalho, além novos futuros projetos e indicações. As relações são o alicerce, pois é a partir delas que adquire recorrência.
+
+## Final
+Com isso você pode começar a adotar um modelo mais organizado e menos caótico para seu trabalho como freelancer. É preciso muito tempo e esforço para chegar um nível de maturidade e identidade própria no processo criativo. Portanto, é hora de por em prática.
+
+### Bônus: E as plataformas freelancer?
+Não recomendo o uso de plataformas freelancer. No início até foram boas, hoje é um território com pouca oportunidade para quem está começando.
